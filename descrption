@@ -1,0 +1,5 @@
+Built a classic Snake game using Python and the Tkinter library for the graphical interface.
+Developed game logic for real-time snake movement, food generation, collision detection, and scoring system.
+Implemented smooth user interaction through keyboard input to control snake direction.
+Designed a dynamic UI using Tkinter's canvas for snake rendering and real-time updates.
+Achieved a functional and responsive gameplay experience, including game-over logic when collisions occur.
